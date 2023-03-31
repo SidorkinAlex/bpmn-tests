@@ -1,0 +1,6 @@
+{
+    "require": {
+        "processmaker/nayra": "^1.9",
+        "phpmentors/workflower": "1.4.*"
+    }
+}
